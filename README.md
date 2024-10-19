@@ -1,5 +1,4 @@
-#Coffee Sales Excel Project
----
+# Coffee Sales Excel Project
 This is a guided project by Youtuber, Mo Chen, using Excel. After creating a dashboard designed by Mo, I made my own dashboard inspired by the data.
 
 ## Key Learnings
