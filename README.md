@@ -12,6 +12,7 @@ Data was provided by Mo Chen in his tutorial. It contained 3 sheets: Orders, Cus
 
 ## Dashboard
 
+![coffee_dashboard](https://github.com/user-attachments/assets/98f94348-432e-42b5-9779-f3479ae3ecce)
 
 ## Summary
 - Present the coffee sales for each coffee type within United States.
