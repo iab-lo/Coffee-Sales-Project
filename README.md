@@ -1,5 +1,5 @@
 # Coffee Sales Excel Project
-This is a guided project by Youtuber, Mo Chen, using Excel. After creating a dashboard designed by Mo, I made my own dashboard inspired by the data.
+This is a guided project by Youtuber, Mo Chen, using Excel. After creating a dashboard designed by Mo, I made my own dashboard inspired by the data. I attached the excel sheet which users can interact with and view coffee sales.
 
 ## Key Learnings
 - Performed X-Lookup and Index Match to gather data into one table which will be used to create visualizations.
@@ -17,5 +17,5 @@ Data was provided by Mo Chen in his tutorial. It contained 3 sheets: Orders, Cus
 ## Summary
 - Present the coffee sales for each coffee type within United States.
 - Compare which coffee was most purchased within a certain time period
-- Show our top 3 customers
+- Show our top customers and potentially communicate with them to improve our sales.
 
